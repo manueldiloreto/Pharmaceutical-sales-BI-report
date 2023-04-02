@@ -1,4 +1,4 @@
-# Power BI Report - Pharmaceutical Sales
+# Power BI Report - Sales of a pharmaceutical company
 
 The report shows a sample of real sales data of a pharmaceutical company operating in Belgium, France, Germany, the United Kingdom, and the Netherlands.
 The Summary provides an overview of the data and shows the most succesful product lines and products by orders, sales, and profit in different countries and regions.
